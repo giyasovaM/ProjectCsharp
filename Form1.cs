@@ -1,5 +1,4 @@
 ﻿// Programmer: Madinakhon Giyasova
-// Project: Assignment 3
 // Date:04.09.2021
 // Description: Order summary form 
 using System;
